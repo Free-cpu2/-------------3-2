@@ -1,0 +1,88 @@
+.div1 {
+  width: 477px;
+  height: 950px;
+  background-color: black;
+  border-radius: 50px;
+}
+.div {
+  width: 149px;
+  height: 9px;
+  color: white;
+  border-radius: 60px;
+}
+.div2 {
+  width: 182px;
+  height: 82px;
+  background-color: #313131;
+  border-radius: 60px;
+}
+.div3 {
+  width: 88px;
+  height: 83px;
+  background-color: #313131;
+  border-radius: 60px;
+}
+.div-main {
+  display: flex;
+  gap: 38px;
+  color: white;
+  text-align: center;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 54.46px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  justify-content: center;
+  padding-top: 20px;
+  
+}
+.div4 {
+  background-color: #f59906;
+  width: 88px;
+  height: 83px;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 72.61px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: white;
+  border-radius: 60px;
+  text-align: center;
+  
+}
+.div5 {
+  width: 88px;
+  height: 83px;
+  border-radius: 60px;
+  background-color: #313131;
+}
+.second-div {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 54.46px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  text-align: center;
+  padding-top: 10px;
+  
+}
+.div6{
+  width: 88px;
+  height: 83px;
+  border-radius: 60px;
+  background-color: #A0A0A0;
+  text-align: center;
+}
+.div1{
+  padding-top: 25px;
+}
+.div7{
+  display: flex;
+  justify-content: space-between;
+}
+.div8{
+  padding-top: 335px;
+}
